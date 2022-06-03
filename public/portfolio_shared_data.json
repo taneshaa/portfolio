@@ -24,47 +24,47 @@
       {
         "name": "HTML 5",
         "class": "devicon-html5-plain",
-        "level": "95"
+        "level": ""
       },
       {
-        "name": "CSS 3",
-        "class": "devicon-css3-plain",
-        "level": "95"
+        "name": "Heroku",
+        "class": "devicon-heroku-plain",
+        "level": ""
       },
       {
-        "name": "Angular",
-        "class": "devicon-angularjs-plain",
-        "level": "80"
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": ""
       },
       {
         "name": "TypeScript",
         "class": "devicon-typescript-plain",
-        "level": "90"
+        "level": ""
       },
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
-        "level": "70"
+        "level": ""
       },
       {
-        "name": "Sass",
-        "class": "devicon-sass-original",
-        "level": "75"
+        "name": "Node.js",
+        "class": "devicon-node.js-original",
+        "level": ""
       },
       {
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
-        "level": "85"
+        "level": ""
       },
       {
-        "name": "C#",
-        "class": "devicon-csharp-plain",
-        "level": "65"
+        "name": "Mongoose",
+        "class": "devicon-mongoose-plain",
+        "level": ""
       },
       {
-        "name": "MySql",
-        "class": "devicon-mysql-plain",
-        "level": "60"
+        "name": "React.js",
+        "class": "devicon-react.js-plain",
+        "level": ""
       }
     ]
   }
