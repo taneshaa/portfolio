@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Taneshas portfolio
 
-Make it your own! 
+View my porfolio [here](https://taneshaportfolio.netlify.app/)
